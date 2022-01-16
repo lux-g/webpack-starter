@@ -1,3 +1,3 @@
 WEBPACK STARTER
 - run npm install
-- includes SASS and font awesome
+- includes SASS,font awesome and gsap
